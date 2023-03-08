@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "name": "john",
+      "email": "john@gmail.com",
+      "address": "Aurangabad",
+      "phone": "7666784920",
+      "photo": "https://images.unsplash.com/photo-1546961329-78bef0414d7c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHVzZXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "accountno": "789456123698",
+      "amount": "2000",
+      "password": "123",
+      "admin": true,
+      "id": 1
+    },
+    {
+      "name": "Pratiksha",
+      "email": "john@gmail.com",
+      "address": "Aurangabad",
+      "phone": "7666784920",
+      "photo": "https://images.unsplash.com/photo-1546961329-78bef0414d7c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHVzZXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "accountno": "789456123698",
+      "amount": 1100,
+      "password": "111",
+      "admin": false,
+      "id": 2
+    },
+    {
+      "name": "shivani raut",
+      "email": "shivani@gmail.com",
+      "address": "Aurangabad",
+      "phone": "7666784920",
+      "photo": "https://images.unsplash.com/photo-1546961329-78bef0414d7c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHVzZXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "accountno": "789456123697",
+      "amount": "2000",
+      "password": "123",
+      "admin": false,
+      "id": 3
+    },
+    {
+      "name": "aarti",
+      "email": "aarti@gmail.com",
+      "address": "Aurangabad",
+      "phone": "7666784920",
+      "photo": "https://images.unsplash.com/photo-1546961329-78bef0414d7c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHVzZXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "accountno": "789456123698",
+      "amount": "5000",
+      "password": "111",
+      "admin": false,
+      "id": 4
+    }
+  ],
+  "transactions": [
+    {
+      "tName": "XXX",
+      "tAccnum": "7894561236998",
+      "tAmount": "100",
+      "id": 1
+    },
+    {
+      "tName": "XXX",
+      "tAccnum": "78945612396",
+      "tAmount": "100",
+      "id": 2
+    }
+  ]
+}
